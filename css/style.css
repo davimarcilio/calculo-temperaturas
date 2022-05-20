@@ -57,6 +57,9 @@ input[type="submit"]:hover{
         .meio{
             padding: 20px;
         }
+        .top1{
+            padding: 10px;
+        }
     }
     .back{
         max-width: 20%;
@@ -105,11 +108,5 @@ input[type="submit"]:hover{
     margin-top: 30px;
 }
 .meio1{
-    max-width: 15%;
-    background-image: url(https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/fisica-conversao-escalas-de-temperatura.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 60px;
-    margin: auto;
-    margin-top: 50px; 
+    padding-top: 30px;
 }
